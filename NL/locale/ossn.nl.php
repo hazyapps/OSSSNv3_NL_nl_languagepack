@@ -106,7 +106,7 @@ $nl = array(
 	'photos' => 'Foto`s',
 	'friends' => 'Vrienden',
 	'links' => 'Links',
-	'ossn:add:user:mail:subject' => "%s Besvestig alstublieft uw email adres %s!",
+	'ossn:add:user:mail:subject' => "%s Bevestig alstublieft uw email adres %s!",
 	'ossn:add:user:mail:body' => "Voordat u gebruik kunt maken van %s, moet u eerst uw email adres bevestigen.
 
 U kunt uw email adres bevestigen door op de link hieronder te klikken:
