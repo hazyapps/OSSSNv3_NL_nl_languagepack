@@ -237,7 +237,7 @@ Klik op de link hieronder om uw wachtwoord te resetten:
 	'upload:file:error:no_tmp_dir' => 'Kan het geuploade bestand niet opslaan.',
 	'upload:file:error:cant_write' => 'Kan het geuploade bestand niet opslaan.',
 	'upload:file:error:extension' => 'Kan het geuploade bestand niet opslaan.',
-	'upload:file:error:unknown' => 'De bestandsupload is mislukt.',
+	'upload:file:error:unknown' => 'De bestands-upload is mislukt.',
 	
 	'ossn:post:size:exceed' => 'De actie die u wilde uitvoeren overschrijd de maximum bestandsgrote.',
 	
@@ -267,7 +267,7 @@ Klik op de link hieronder om uw wachtwoord te resetten:
 	'admin:component:author' => 'Auteur',
 	'admin:component:website' => 'Website',
 	'admin:sidemenu:components' => 'Componenten',
-	'admin:sidemenu:themes' => 'Themas',
+	'admin:sidemenu:themes' => 'Thema`s',
 	'admin:sidemenu:settings' => 'Site Instellingen',
 	'admin:sidemenu:usermanager' => 'Gebruikers Beheer',
 	'cancel' => 'Annuleren',
@@ -283,7 +283,7 @@ Klik op de link hieronder om uw wachtwoord te resetten:
 	//admin
 	'my:files:version' => 'Mijn Ossn bestanden versie',
 	'cache:flush:error' => 'Can not flush cache, make sure cache is enabled in cache settings',
-	'cache:flushed' => 'Cache flushed successfully',
+	'cache:flushed' => 'Cache succesvol geflushed',
 	'ossn:version' => 'OSSN versie', 
 	'php:extensionn' => 'PHP extensie',
 	'php:versionn' => 'PHP versie',
