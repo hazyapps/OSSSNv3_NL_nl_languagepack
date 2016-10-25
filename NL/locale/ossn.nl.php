@@ -43,7 +43,7 @@ $nl = array(
 	'gender' => 'Geslacht',
 	
 	'acount:settings' => 'Account instellingen',
-	'page:error' => 'Page Not Found!',
+	'page:error' => 'Pagina niet gevonden!',
 	'page:error:text' => 'De pagina die je probeerd te openen bestaat niet (meer).',
 	'page:error:heading' => '404',
 	
@@ -239,7 +239,7 @@ Klik op de link hieronder om uw wachtwoord te resetten:
 	'upload:file:error:extension' => 'Kan het geuploade bestand niet opslaan.',
 	'upload:file:error:unknown' => 'De bestandsupload is mislukt.',
 	
-	'ossn:post:size:exceed' => 'De actie die u wilde uitvoern overschrijd de maximum bestandsgrote.',
+	'ossn:post:size:exceed' => 'De actie die u wilde uitvoeren overschrijd de maximum bestandsgrote.',
 	
 	'admin:components' => 'Componenten',
 	'admin:themes' => 'Themas',
@@ -254,7 +254,7 @@ Klik op de link hieronder om uw wachtwoord te resetten:
 	'notification_email' => 'Notificatie email adres (noreply@domain.com)',
 	'owner_email' => 'Eigenaar Email adres(mysite@domain.com)',
 	'ossn:websitename' => 'Naam van de website',
-	'ossn:user:validation:resend' => 'Je account is niet gevalideerd! U moet uw account te valideren voordat u kunt inloggen. Er is nog een validatie e-mail is verzonden naar uw emailadres gestuurd.',
+	'ossn:user:validation:resend' => 'Uw account is niet gevalideerd! U moet uw account te valideren voordat u kunt inloggen. Er is nog een validatie e-mail is verzonden naar uw emailadres gestuurd.',
 	'site:timepassed:text' => '%s geleden',
 	// localization of passed time: 16 time elements (even = singular / odd = plural)
 	'site:timepassed:data' => 'seconde|seconden|minuut|minuten|uur|uur|dag|dagen|week|weken|maand|maanden|jaar|jaren|decennia|decennia`s',
